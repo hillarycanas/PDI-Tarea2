@@ -3,7 +3,7 @@
 #####Contenido:
 * Abrir una imagen en formato BMP sin compresion, de cualquier tipo -listo
 * Calcular y mostrar informacion relevante de la imagen (e.g. dimensiones, profundidad de bits, Mb ocupados.) -listo
-* Calcular y desplegar el histograma de la imagen. Si la imagen es a color, entonces un histograma por cada canal.
+* Calcular y desplegar el histograma de la imagen. Si la imagen es a color, entonces un histograma por cada canal. -listo (kinda)
 * Realizar la ecualizacion de la imagen
 * Realizar las operaciones de espejo horizontal y vertical. -listo
 * Calcular el negativo de la imagen -listo
