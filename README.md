@@ -1,4 +1,4 @@
-﻿# PDI-Tarea1
+﻿# PDI-Tarea2
 
 #####Contenido:
 * Abrir una imagen en formato BMP sin compresion, de cualquier tipo -listo
