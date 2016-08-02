@@ -15,5 +15,5 @@
 * Salvar la imagen resultante de las modificaciones realizadas 
 
 #####Hecho por: 
-Hillary C
+Hillary C y
 Nadia B
